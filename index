@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>简短的皇家理工大学介绍</title>
+		
+	</head>
+	<body>
+		 <style type="text/css">
+		        .div1{
+		            text-align: center;
+					display: inline-block;
+		        }
+		        .div2{
+		            background-color: orangered;
+		        }
+				.title{
+				color:green;
+				font-size: 40px;
+				font-weight: bold;
+				.color{
+					color:gray;
+				}
+		 </style>
+		 <style>
+		 	.ball {
+		 		position: relative;
+		 		border: 2px dashed red;
+		 		width: 200px;
+		 		height: 200px;
+		 		text-align: center;
+		 	}
+		 	
+		 	.ball:hover {
+		 		border-radius: 5px;
+		 		border: 1px solid darkblue;
+		 		top: 50px;
+		 		width: 400px;
+		 		height: 400px;
+		 		font-size: xx-large;
+		 		background-color: antiquewhite;
+		 		box-shadow: 10px 10px 10px grey;
+		 	}
+			.jumpball {
+				float: left;
+				position: center;
+				border-radius: 10px;
+				width: 20px;
+				height: 20px;
+				margin: 20px;
+				animation: jump 2s ease infinite alternate;
+			}
+			
+			@keyframes jump{
+				0% {
+					background: blue;
+				}
+				50% {
+					transform: translate(20px, 100px);
+					background: red;
+				}
+				100% {
+					transform: translate(20px, 0px);
+					background: coral;
+				}
+			}
+			
+		 </style>
+		    <body>
+		        <div class="div1">
+		<div class="title" style="font-size:30px;color:blue;font-weight:normal;">
+			<a href="https://www.xmu.edu.cn/"><abbr title="南方之强">厦门大学</abbr></a>
+			</div>
+				<sub align="center"> 翔安校区</sub> 
+		<p><hr /></p>
+		<img src="img/厦大校徽.jpg"  /width="50%" /height="50%">
+		<p><hr /></p>
+		<p><abbr title="自强不息，止于至善。">厦大校训</abbr><sub align="center"> </sub> </p>
+		<img src="img/厦大校训.jpg" /width="75%" /height="50%"> 
+		<p><hr /></p>
+		<div style="font-size:20px;color:gray;font-weight:normal;"> 
+			<p>
+				让我们通过表单看看<abbr title="皇家理工学院">厦大翔安校区</abbr>
+			</p>
+		</div>
+		<table width="700" border="10">
+			<tr>
+				<td>所处地域</td>
+				<td>
+					<p> 厦门市翔安区新店镇 </p>
+				</td>
+			</tr>
+			
+			<tr>
+				<td>发展定位</td>
+				<td>
+					<ul>
+						<li>重点建设中国孔子学院总部南方基地</li>
+						<li>重点构筑一批新兴应用学科的国家级、省部级科技创新平台</li>
+						<li> 重点布局生命、医学、药学、海洋、环境、生态、信息等新兴学科和应用学科 </li>
+					</ul>
+				</td>
+			</tr>
+			
+			<tr>
+				<td>入驻学院</td>
+				<td>
+							<select>
+								<option> --学院列表--</option>
+								<option>生命科学学院</option>
+								<option>海洋与地球学院</option>
+								<option>环境与生态学院</option>
+								<option>医学院</option>
+								<option>药学院</option>
+								<option>公共卫生学院</option>
+								<option>能源学院</option>
+								<option>国际学院</option>
+								<option>海外教育学院</option>
+								<option>航空航天学院</option>
+								<option>信息学院</option>
+							</select>
+				</td>
+			</tr>
+		</table>
+		<p><hr /></p>
+		<div style="font-size:20px;color:gray;font-weight:normal;">
+			<p>
+				让我们通过图片来看看<abbr title="皇家理工学院">厦大翔安校区</abbr>
+			</p>
+		</div>
+	<div class="div1">
+		<div class="ball">
+		<abbr title="厦大校门">
+		<img src="img/4.jpg" /width="100%" /height="100%"> 
+		</abbr>
+		</div>
+		<div class="ball">
+		<abbr title="芙蓉湖的白天">
+		<img src="img/2.jpg" /width="100%" /height="100%"> 
+		</abbr>
+		</div>
+		<div class="ball">
+		<abbr title="远观德旺图书馆">
+		<img src="img/3.jpg" /width="100%" /height="100%"> 
+		</abbr>
+		<div class="ball">
+		<abbr title="芙蓉湖夜景">
+		<img src="img/1.jpg" /width="100%" /height="100%"> 
+		</abbr>
+		</div>
+		</div>
+	</div>
+	<p><hr /></p>
+	<div style="font-size:20px;color:gray;font-weight:normal;">
+		<p>
+			最后让我们通过几个UP主的vlog一起逛逛它吧
+		</p>
+	</div>
+	<a href="https://www.bilibili.com/video/BV1Vt411b7E1?from=search&seid=4386180811713857327">
+		<abbr title="橘子树上的柠檬茶">
+			<img src="img/头像1.jpg" /width="10%" /height="10%"> 
+		</abbr>
+		<p>厦大翔安校区一游</p>
+	</a>
+	<a href="https://www.bilibili.com/video/BV1Vt411b7E1?from=search&seid=4386180811713857327">
+		<abbr title="藕爱吃西红柿">
+			<img src="img/头像2.jpg" /width="10%" /height="10%"> 
+		</abbr>
+		<p>厦大翔安校区---生活小片段~</p>
+	</a>
+	<a href="https://www.bilibili.com/video/BV1Vt411b7E1?from=search&seid=4386180811713857327">
+		<abbr title="爱Candy的力力">
+			<img src="img/头像3.jpg" /width="10%" /height="10%"> 
+		</abbr>
+		<p>[航拍]MAVIC Mini俯拍厦大翔安</p>
+	</a>
+	<p><hr /></p>
+	<div class="jumball">
+		
+	</div>
+	<div class="jumpball" style="animation-delay: 1s;">
+		
+	</div>
+	<div class="jumpball" style="animation-delay: 1.25s;">
+		<p>介</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 1.5s;">
+		<p>绍</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 1.75s;">
+		<p>到</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 2.0s;">
+		<p>此</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 2.25s;">
+		<p>结</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 2.50s;">
+		<p>束</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 2.75s;">
+		<p>啦</p>
+	</div>
+	<div class="jumpball" style="animation-delay: 3.0s;">
+	</div>
+	
+
+	</div>
+	</body>
+	
+</html>
